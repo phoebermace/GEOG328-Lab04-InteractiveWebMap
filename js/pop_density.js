@@ -60,14 +60,14 @@ async function geojsonFetch() {
             '1000 and more'
         ];
         const colors = [
-            '#FFEDA07',
-            '#FED9767',
-            '#FEB24C7',
-            '#FD8D3C7',
-            '#FC4E2A7',
-            '#E31A1C7',
-            '#BD00267',
-            '#8000267'
+            '#FFEDA070',
+            '#FED97670',
+            '#FEB24C70',
+            '#FD8D3C70',
+            '#FC4E2A70',
+            '#E31A1C70',
+            '#BD002670',
+            '#80002670'
         ];
 
         const legend = document.getElementById('legend');
